@@ -1,0 +1,43 @@
+.container1 {
+	height: 400px;
+}
+
+.murderMap {
+	float: left;
+	width: 500px;
+	height:390px;
+	margin-right: 50px;
+	margin-left: 50px;
+	padding: 10px
+}
+
+#AssaultMap {
+	height:390px;
+	float: right;
+	margin-right: 50px;
+	margin-left: 50px;
+	padding: 10px;
+	
+}
+#RobberyMap {
+	float: right;
+	width:500px;
+	height:390px;
+	margin-right: 50px;
+	margin-left: 50px;
+	padding:10px;
+}
+#BurglaryMap {
+	float:left;
+	width:500px;
+	height:390px;
+	margin-right: 50px;
+	margin-left: 50px;
+	padding:10px;
+}
+
+h4 {
+	text-align: center;
+}
+
+
